@@ -1,0 +1,6 @@
+stackoverflow links for solving react errors
+
+https://stackoverflow.com/questions/79256830/error-in-creating-new-react-app-using-create-react-app-appname
+
+https://stackoverflow.com/questions/70020046/quasar-error-cannot-find-module-ajv-dist-compile-codegen
+
