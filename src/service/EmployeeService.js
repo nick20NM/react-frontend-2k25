@@ -7,7 +7,7 @@ const EMPLOYEE_ID = 4;
 class EmployeeService {
 
     getEmployee() {
-        axios.get(EMPLOYEE_SERVICE_BASE_URL + '/' + EMPLOYEE_ID);
+        return axios.get(EMPLOYEE_SERVICE_BASE_URL + '/' + EMPLOYEE_ID);
     }
 }
 
